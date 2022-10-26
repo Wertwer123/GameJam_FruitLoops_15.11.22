@@ -925,3 +925,84 @@ Recommended: 516.25
 [2022.10.26-15.03.57:905][154]AssetCheck: New page: Asset Save: George-Scene
 [2022.10.26-15.03.57:905][154]LogContentValidation: Display: Validating World /Game/George/George-Scene.George-Scene
 [2022.10.26-15.03.59:106][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.26-15.28.11:299][875]LogSlate: Window 'Source Control Login' being destroyed
+[2022.10.26-15.28.19:239][ 80]Cmd: SELECT NONE
+[2022.10.26-15.28.21:380][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.26-15.28.21:382][132]LogAssetEditorSubsystem: Opening Asset editor for World /Game/George/George-Scene.George-Scene
+[2022.10.26-15.28.21:382][132]Cmd: MAP LOAD FILE="../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Content/George/George-Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.26-15.28.21:382][132]LightingResults: New page: Lighting Build
+[2022.10.26-15.28.21:382][132]LoadErrors: New page: Loading map: George-Scene.umap
+[2022.10.26-15.28.21:383][132]LogWorld: UWorld::CleanupWorld for George-Scene, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-15.28.21:384][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-15.28.21:384][132]MapCheck: New page: Map Check
+[2022.10.26-15.28.21:384][132]LightingResults: New page: Lighting Build
+[2022.10.26-15.28.21:392][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-15.28.21:432][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.26-15.28.21:434][132]LogAudio: Display: Audio Device (ID: 1) registered with world 'George-Scene'.
+[2022.10.26-15.28.21:434][132]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-15.28.21:435][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-15.28.21:435][132]LogAIModule: Creating AISystem for world George-Scene
+[2022.10.26-15.28.21:436][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-15.28.21:447][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.26-15.28.21:459][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-15.28.21:459][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,226ms to complete.
+[2022.10.26-15.28.21:459][132]LogFileHelpers: Loading map 'George-Scene' took 0.077
+[2022.10.26-15.28.22:961][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.10.26-15.28.22:965][161]LogSavePackage: Moving output files for package: /Game/George/George-Scene
+[2022.10.26-15.28.22:966][161]LogSavePackage: Moving '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Saved/George-SceneB0C7F53F44F288AFD822A4AF54AA9353.tmp' to '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Content/George/George-Scene.umap'
+[2022.10.26-15.28.23:060][161]AssetCheck: New page: Asset Save: George-Scene
+[2022.10.26-15.28.23:060][161]LogContentValidation: Display: Validating World /Game/George/George-Scene.George-Scene
+[2022.10.26-15.28.38:780][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.26-15.28.38:784][429]LogSavePackage: Moving output files for package: /Game/George/George-Scene
+[2022.10.26-15.28.38:785][429]LogSavePackage: Moving '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Saved/George-Scene066445D64CE72C5CBFBD458BFC881896.tmp' to '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Content/George/George-Scene.umap'
+[2022.10.26-15.28.38:797][429]LogFileHelpers: Saving map 'George-Scene' took 0.027
+[2022.10.26-15.28.42:621][429]LogSlate: Window 'Submit Files' being destroyed
+[2022.10.26-15.28.44:508][429]LogSlate: Window 'Message' being destroyed
+[2022.10.26-15.28.44:584][429]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2022.10.26-15.28.44:587][429]AssetCheck: New page: Asset Save: George-Scene
+[2022.10.26-15.28.44:587][429]LogContentValidation: Display: Validating World /Game/George/George-Scene.George-Scene
+[2022.10.26-15.28.49:268][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.49:269][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/George/Development/GameJam_FruitLoops_15.11.22'
+[2022.10.26-15.28.50:265][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.26-15.28.50:269][502]LogSavePackage: Moving output files for package: /Game/George/George-Scene
+[2022.10.26-15.28.50:270][502]LogSavePackage: Moving '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Saved/George-SceneFB47969C4B6038B766A6A5941B7E174A.tmp' to '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Content/George/George-Scene.umap'
+[2022.10.26-15.28.50:282][502]LogFileHelpers: Saving map 'George-Scene' took 0.028
+[2022.10.26-15.29.04:542][502]LogSlate: Window 'Submit Files' being destroyed
+[2022.10.26-15.29.06:450][502]LogSourceControl: commit successful: [main cba71b4] George Scene added for real.
+[2022.10.26-15.29.06:500][502]SourceControl: [main cba71b4] George Scene added for real.
+[2022.10.26-15.29.06:500][502]SourceControl:  1 file changed, 1 insertion(+), 1 deletion(-)
+[2022.10.26-15.29.06:563][502]SourceControl: Commited [main cba71b4] George Scene added for real..
+[2022.10.26-15.29.06:587][503]AssetCheck: New page: Asset Save: George-Scene
+[2022.10.26-15.29.06:587][503]LogContentValidation: Display: Validating World /Game/George/George-Scene.George-Scene
+[2022.10.26-15.29.18:735][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.10.26-15.29.18:739][851]LogSavePackage: Moving output files for package: /Game/George/George-Scene
+[2022.10.26-15.29.18:740][851]LogSavePackage: Moving '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Saved/George-SceneD68D9BEE4E7146A6F5F6639274D264B7.tmp' to '../../../../../../Users/George/Development/GameJam_FruitLoops_15.11.22/Content/George/George-Scene.umap'
+[2022.10.26-15.29.18:833][851]AssetCheck: New page: Asset Save: George-Scene
+[2022.10.26-15.29.18:833][851]LogContentValidation: Display: Validating World /Game/George/George-Scene.George-Scene
