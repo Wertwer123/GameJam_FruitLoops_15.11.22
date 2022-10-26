@@ -784,3 +784,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.26-14.21.27:723][257]LogSavePackage: Moving '../../../../../../Users/enzom/OneDrive/Dokumente/Unreal Projects/GameJam_FruitLoops_15.11.22/Saved/EnzoLevelBF2E4E1A48F0DF96ACE659A4F3509AC0.tmp' to '../../../../../../Users/enzom/OneDrive/Dokumente/Unreal Projects/GameJam_FruitLoops_15.11.22/Content/Enzo/EnzoLevel.umap'
 [2022.10.26-14.21.27:740][257]AssetCheck: New page: Asset Save: EnzoLevel
 [2022.10.26-14.21.27:740][257]LogContentValidation: Display: Validating World /Game/Enzo/EnzoLevel.EnzoLevel
+[2022.10.26-14.27.51:341][308]LogSlate: Window 'Source Control Login' being destroyed
