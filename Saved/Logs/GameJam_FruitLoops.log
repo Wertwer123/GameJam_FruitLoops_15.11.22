@@ -13673,3 +13673,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-00.29.30:267][ 90]LogContentValidation: Display: Validating Blueprint /Game/Enzo/Blueprints/GameModes/FP_GameMode_BP.FP_GameMode_BP
 [2022.10.27-00.29.30:267][ 90]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Skybox_Mat_Inst.Skybox_Mat_Inst
 [2022.10.27-00.29.30:267][ 90]LogContentValidation: Display: Validating CurveFloat /Game/Enzo/Curves/AccelerationCurve_Curve.AccelerationCurve_Curve
+[2022.10.27-00.40.36:849][625]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.27-00.46.03:558][163]LogDerivedDataCache: C:/Users/enzom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.295 and deleted 0 file(s) with total size 0 MiB.
