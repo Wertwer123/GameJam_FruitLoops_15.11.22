@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 
 Saved/Logs/GameJam_FruitLoops.log
+
+#ignoredFiles
+*.ini
